@@ -1,1 +1,1 @@
-Dayan & Abbott wrote a fantastic book. It comes with exercises to be completed in order to cement one's understanding. I couldn't find any solutions to these online, so this is my own attempt. Please get in touch if you find mistakes. 
+Dayan & Abbott wrote a fantastic book. It comes with exercises to be completed in order to cement one's understanding. I couldn't find any complete solutions to these online, so this is my own attempt. Please get in touch if you find mistakes. 
